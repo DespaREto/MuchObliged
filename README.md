@@ -33,6 +33,7 @@ Example:
 ``` 
 ## Authors
 * DespaREto
+* Carrot & Niall (README.md _inspiration_ 😂)
 * N* Buddies
 
 ## Thanks
