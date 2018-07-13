@@ -50,7 +50,7 @@ int main(int argc, char **argv)
 	{
 		std::cout << "[ * ] Please input an encrypted file!" << std::endl;
 		std::cout << "[ * ] Also.. keep the .SHRUG2 extension." << std::endl;
-		// return 1;
+		return 1;
 	}
 	std::cout << "[ * ] I am MuchObliged." << std::endl;
 	std::cout << "[ ! ] WARNING: MuchObliged won't work if you're not running from an infected machine." << std::endl;
