@@ -1,5 +1,5 @@
 <h1 align="center">MuchObliged</h1>
-<h4 align="center">a shrug2 decryptor</h4>
+<h4 align="center">a shrug2/shrugdecryptor/the ransomware with the thomas the tank engine picture decryptor</h4>
 <div align="center">
 	<a href="https://github.com/DespaREto/MuchObliged/blob/master/LICENSE">
 		<img src="https://img.shields.io/github/license/DespaREto/MuchObliged.svg"/>
